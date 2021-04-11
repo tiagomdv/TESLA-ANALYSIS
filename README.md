@@ -1,2 +1,10 @@
 # TESLA-ANALYSIS
-Repository to study TESLA operations. Battery-Revenue Model, Automotive Capacity Model, NPC Cash Flow Analysis and Financial Multiple Comparison Analysis
+
+Repository to study everything Tesla related. 
+
+Contains/Will Contain:
+-Battery-Revenue Model
+-Automotive Capacity Model
+-NPC Cash Flow Analysis
+-Financial Multiple Comparison Analysis
+
